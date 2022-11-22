@@ -1,0 +1,12 @@
+[
+    {
+        "pool": "default_pool",
+        "slots": 128,
+        "description": "Default pool"
+    },
+    {
+        "pool": "test_astronomer_process_pool",
+        "slots": 1,
+        "description": "Testing the Pool functionality for the test Astronomer DAGs."
+    }
+]

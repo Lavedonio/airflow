@@ -1,0 +1,10 @@
+[
+    {
+        "key": "test_astronomer_cert_prep_variable",
+        "value": {
+            "first_name": "Daniel",
+            "surname": "Lavedonio de Lima"
+        },
+        "description": "Variable for testing the jinja templating functionality."
+    }
+]
